@@ -11,8 +11,13 @@ using Capa_Controlador_CompraVenta;
 using Capa_Vista_Cotizacion;
 //using Capa_Vista_Factura;
 using Interfac_V3;
+<<<<<<< HEAD
 /*using Capa_Vista_ListaPrecios;
 using Capa_Vista_Polizas;
+=======
+using Capa_Vista_ListaPrecios;
+/*using Capa_Vista_Polizas;
+>>>>>>> fb08f7c8ff80b705a7cb0fc9c2993e1dab67ebd4
 using Capa_vista_pedido;
 using Capa_Vista_OrdenCompra;
 using Capa_Vista;*/
@@ -89,9 +94,15 @@ namespace Capa_Vista_CompraVenta
 
         private void button2_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             /* frm_MantenimientoListas Ven = new frm_MantenimientoListas(idUsuario);
             Ven.MdiParent = this;
             Ven.Show();*/
+=======
+            frm_MantenimientoListas Ven = new frm_MantenimientoListas(idUsuario);
+            Ven.MdiParent = this;
+            Ven.Show();
+>>>>>>> fb08f7c8ff80b705a7cb0fc9c2993e1dab67ebd4
         }
 
         private void Btn_vendedores_Click(object sender, EventArgs e)
@@ -138,9 +149,15 @@ namespace Capa_Vista_CompraVenta
 
         private void button9_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             /*  frm_ListadoInicio Ven = new frm_ListadoInicio();
             Ven.MdiParent = this;
             Ven.Show();*/
+=======
+            frm_ListadoInicio Ven = new frm_ListadoInicio(idUsuario);
+            Ven.MdiParent = this;
+            Ven.Show();
+>>>>>>> fb08f7c8ff80b705a7cb0fc9c2993e1dab67ebd4
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -152,9 +169,15 @@ namespace Capa_Vista_CompraVenta
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             FormModulos formulario = new FormModulos(idUsuario);
             formulario.MdiParent = this;
             formulario.Show();
+=======
+            /*FormModulos formulario = new FormModulos(idUsuario);
+            formulario.MdiParent = this;
+            formulario.Show();*/
+>>>>>>> fb08f7c8ff80b705a7cb0fc9c2993e1dab67ebd4
         }
 
         private void ocultaSubMenu()
