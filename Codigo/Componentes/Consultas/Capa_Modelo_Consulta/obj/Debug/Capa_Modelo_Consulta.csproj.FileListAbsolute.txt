@@ -1,0 +1,6 @@
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.AssemblyReference.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.pdb
