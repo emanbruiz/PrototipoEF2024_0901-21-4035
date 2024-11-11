@@ -1,0 +1,6 @@
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.pdb
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.AssemblyReference.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.pdb

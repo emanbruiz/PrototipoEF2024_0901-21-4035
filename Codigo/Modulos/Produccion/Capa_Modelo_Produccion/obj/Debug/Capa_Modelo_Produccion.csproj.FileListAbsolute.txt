@@ -1,0 +1,6 @@
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\bin\Debug\Capa_Modelo_Produccion.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\bin\Debug\Capa_Modelo_Produccion.pdb
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.csproj.AssemblyReference.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.dll
+C:\Users\DELL-PC\OneDrive\Escritorio\1. Examen Final AS2\backup\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.pdb
